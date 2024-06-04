@@ -25,3 +25,6 @@ https://learn.microsoft.com/en-us/)
 - [Azure Free for students](https://azure.microsoft.com/en-us/free/students)
 - [Azure pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 - [Azure quotas and limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits)
+- [Resource locks](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json)
+- [Azure policy samples - community-based](https://github.com/Azure/Community-Policy/tree/main)
+- 
