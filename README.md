@@ -20,3 +20,7 @@ https://learn.microsoft.com/en-us/)
 ### Module 2
 - [Azure region map](https://datacenters.microsoft.com/globe/explore)
 - [Azure region pairs](https://learn.microsoft.com/en-us/azure/reliability/cross-region-replication-azure)
+- [Azure services availability by region](https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/) 
+- [Free services in Azure](https://azure.microsoft.com/en-us/free#all-free-services)
+- [Azure Free for students](https://azure.microsoft.com/en-us/free/students)
+- [Azure pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
