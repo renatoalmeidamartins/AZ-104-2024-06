@@ -29,4 +29,4 @@ https://learn.microsoft.com/en-us/)
 - [Azure policy samples - community-based](https://github.com/Azure/Community-Policy/tree/main)
 - [Azure built-in policies](https://learn.microsoft.com/en-us/azure/governance/policy/samples/built-in-policies)
 - [Azure built-in initiatives](https://learn.microsoft.com/en-us/azure/governance/policy/samples/built-in-initiatives)
-- 
+- [Azure policy effects](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/effect-basics)
