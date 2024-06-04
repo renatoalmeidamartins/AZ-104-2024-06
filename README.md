@@ -27,4 +27,6 @@ https://learn.microsoft.com/en-us/)
 - [Azure quotas and limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits)
 - [Resource locks](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json)
 - [Azure policy samples - community-based](https://github.com/Azure/Community-Policy/tree/main)
+- [Azure built-in policies](https://learn.microsoft.com/en-us/azure/governance/policy/samples/built-in-policies)
+- [Azure built-in initiatives](https://learn.microsoft.com/en-us/azure/governance/policy/samples/built-in-initiatives)
 - 
