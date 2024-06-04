@@ -16,6 +16,7 @@ https://learn.microsoft.com/en-us/)
 - [Dynamic groups](https://learn.microsoft.com/en-us/entra/identity/users/groups-create-rule)
 - [Module 1 - Q&A](https://forms.office.com/e/JriuqepGpE)
 - [Entra joined/registered/hybrid-joined devices](https://learn.microsoft.com/en-us/entra/identity/devices/concept-device-registration)
+- [Azure built-in roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles)
 
 ### Module 2
 - [Azure region map](https://datacenters.microsoft.com/globe/explore)
@@ -30,3 +31,4 @@ https://learn.microsoft.com/en-us/)
 - [Azure built-in policies](https://learn.microsoft.com/en-us/azure/governance/policy/samples/built-in-policies)
 - [Azure built-in initiatives](https://learn.microsoft.com/en-us/azure/governance/policy/samples/built-in-initiatives)
 - [Azure policy effects](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/effect-basics)
+- [Global admin privilege elevation to manage Azure resources](https://learn.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin?tabs=azure-portal)
