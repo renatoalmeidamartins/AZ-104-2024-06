@@ -33,3 +33,9 @@ https://learn.microsoft.com/en-us/)
 - [Azure policy effects](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/effect-basics)
 - [Global admin privilege elevation to manage Azure resources](https://learn.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin?tabs=azure-portal)
 - [Q&A for module 2](https://forms.office.com/e/Hbv0yZVFGk)
+
+### Module 3
+- [Bicep samples](https://github.com/Azure/azure-docs-bicep-samples)
+- [Install PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.4)
+- [Install az CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
+- [Template gallery](https://learn.microsoft.com/en-us/samples/browse/?expanded=azure&products=azure-resource-manager) 
