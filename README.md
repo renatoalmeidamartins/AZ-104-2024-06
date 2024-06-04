@@ -2,6 +2,7 @@
 
 ## Day 1 
 
+### Module 1
 - [Repo with all the AZ-104 labs and demos](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
 - [Azure to AWS service comparison](
 https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services)
@@ -15,3 +16,7 @@ https://learn.microsoft.com/en-us/)
 - [Dynamic groups](https://learn.microsoft.com/en-us/entra/identity/users/groups-create-rule)
 - [Module 1 - Q&A](https://forms.office.com/e/JriuqepGpE)
 - [Entra joined/registered/hybrid-joined devices](https://learn.microsoft.com/en-us/entra/identity/devices/concept-device-registration)
+
+### Module 2
+- [Azure region map](https://datacenters.microsoft.com/globe/explore)
+- [Azure region pairs](https://learn.microsoft.com/en-us/azure/reliability/cross-region-replication-azure)
