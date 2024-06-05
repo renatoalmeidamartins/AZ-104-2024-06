@@ -61,4 +61,5 @@ https://learn.microsoft.com/en-us/)
 - [Services supporting service endpoints](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview)
 - [Private endpoints](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview)
 - [Comparing private and service endpoints](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/service-endpoints-vs-private-endpoints/ba-p/3962134)
+- [Q&A for Module 5](https://forms.office.com/r/sFaPN8U0gN)
 - 
