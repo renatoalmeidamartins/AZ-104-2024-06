@@ -46,3 +46,4 @@ https://learn.microsoft.com/en-us/)
 ### Module 4
 - [Public IP Addresses](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses)
 - [Private subnet feature - preview](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/default-outbound-access)
+- [Effective security rules - requires network watcher agent to be installed](https://learn.microsoft.com/en-us/azure/network-watcher/effective-security-rules-overview)
