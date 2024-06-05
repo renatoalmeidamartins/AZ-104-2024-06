@@ -49,4 +49,8 @@ https://learn.microsoft.com/en-us/)
 - [Effective security rules - requires network watcher agent to be installed](https://learn.microsoft.com/en-us/azure/network-watcher/effective-security-rules-overview)
 - [Azure public DNS delegation](https://learn.microsoft.com/en-us/azure/dns/dns-delegate-domain-azure-dns)
 - [Adding entra custom domains](https://learn.microsoft.com/en-us/entra/fundamentals/add-custom-domain)
+- [Network watcher - packet capture](https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-overview)
+- [Network watcher - NSG flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-overview)
+- There is plenty of additional features in Network watcher
 - [Q&A for Module 4](https://forms.office.com/r/U40ANTfda1)
+- 
