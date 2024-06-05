@@ -62,4 +62,7 @@ https://learn.microsoft.com/en-us/)
 - [Private endpoints](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview)
 - [Comparing private and service endpoints](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/service-endpoints-vs-private-endpoints/ba-p/3962134)
 - [Q&A for Module 5](https://forms.office.com/r/sFaPN8U0gN)
-- 
+
+### Module 6
+- [Choosing a load balancing soution in Azure](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview)
+- [Q&A for module 6](https://forms.office.com/r/EFbkrrFhMW)
