@@ -58,7 +58,4 @@ https://learn.microsoft.com/en-us/)
 ### Module 5
 - [hHub and spoke network topology](https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/hub-spoke?tabs=cli)
 - [VNet FAQ - peering](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq#if-i-peer-vneta-to-vnetb-and-i-peer-vnetb-to-vnetc-does-that-mean-vneta-and-vnetc-are-peered)
-- 
-- 
-- 
-- 
+- [Services supporting service endpoints](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview) 
