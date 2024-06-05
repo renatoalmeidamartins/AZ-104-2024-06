@@ -40,3 +40,9 @@ https://learn.microsoft.com/en-us/)
 - [Install az CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
 - [Template gallery](https://learn.microsoft.com/en-us/samples/browse/?expanded=azure&products=azure-resource-manager)
 - [Q&A for module 3](https://forms.office.com/e/nWwr3iND39)
+
+## Day 2
+
+### Module 4
+- [Public IP Addresses](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses)
+- [Private subnet feature - preview](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/default-outbound-access)
