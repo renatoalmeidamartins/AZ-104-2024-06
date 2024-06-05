@@ -52,5 +52,7 @@ https://learn.microsoft.com/en-us/)
 - [Network watcher - packet capture](https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-overview)
 - [Network watcher - NSG flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-overview)
 - There is plenty of additional features in Network watcher
+- [Service tags](https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview)
 - [Q&A for Module 4](https://forms.office.com/r/U40ANTfda1)
+- 
 - 
