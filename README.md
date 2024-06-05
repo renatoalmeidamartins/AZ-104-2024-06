@@ -54,5 +54,11 @@ https://learn.microsoft.com/en-us/)
 - There is plenty of additional features in Network watcher
 - [Service tags](https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview)
 - [Q&A for Module 4](https://forms.office.com/r/U40ANTfda1)
+
+### Module 5
+- [hHub and spoke network topology](https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/hub-spoke?tabs=cli)
+- [VNet FAQ - peering](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq#if-i-peer-vneta-to-vnetb-and-i-peer-vnetb-to-vnetc-does-that-mean-vneta-and-vnetc-are-peered)
+- 
+- 
 - 
 - 
