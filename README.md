@@ -55,8 +55,8 @@ https://learn.microsoft.com/en-us/)
 - [Network watcher - packet capture](https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-overview)
 - [Network watcher - NSG flow logs](https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-overview)
 - There is plenty of additional features in Network watcher
-- [Service tags](https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview)
-- [Q&A for Module 4](https://forms.office.com/r/U40ANTfda1)
+-- [Service tags](https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview)
+-- [Q&A for Module 4](https://forms.office.com/r/U40ANTfda1)
 
 ### Module 5
 - [hHub and spoke network topology](https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/hub-spoke?tabs=cli)
@@ -81,10 +81,10 @@ https://learn.microsoft.com/en-us/)
 - [Constructing a storage access signature](https://learn.microsoft.com/en-us/rest/api/storageservices/create-service-sas)
 - [Azure storage explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer/)
 - [Azure File Sync](https://learn.microsoft.com/en-us/azure/storage/file-sync/file-sync-deployment-guide?tabs=azure-portal%2Cproactive-portal)
-- [Block, page and append blobs](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction#blobs
-- [Immutable - WORM storage)(https://learn.microsoft.com/en-us/azure/storage/blobs/immutable-storage-overview)
+- [Block, page and append blobs](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction#blobs)
+- [Immutable - WORM storage](https://learn.microsoft.com/en-us/azure/storage/blobs/immutable-storage-overview)
 - [Blob access tiers](https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview)
--  [Q&A for module 7](https://forms.office.com/r/EFbkrrFhMW)
+- [Q&A for module 7](https://forms.office.com/r/EFbkrrFhMW)
 
 ### Module 8
 - [VM families](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview)
