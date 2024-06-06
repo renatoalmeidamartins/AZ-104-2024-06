@@ -94,3 +94,6 @@ https://learn.microsoft.com/en-us/)
 - [Spot usage](https://learn.microsoft.com/en-us/azure/virtual-machines/spot-vms)
 - [Comparing uniform and flexible orchestration for VMSSs](https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-orchestration-modes#a-comparison-of-flexible-uniform-and-availability-sets)
 - [Q&A for Module 8](https://forms.office.com/r/BygPm0Cy76)
+
+### Module 9
+- [Using key vault references in deployment slot settings for App Service](https://learn.microsoft.com/en-us/azure/app-service/app-service-key-vault-references?tabs=azure-cli)
