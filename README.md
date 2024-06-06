@@ -90,4 +90,5 @@ https://learn.microsoft.com/en-us/)
 - [VM families](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview)
 - [Disk sizes](https://learn.microsoft.com/en-us/azure/virtual-machines/disks-types)
 - [Azure Bastion](https://learn.microsoft.com/en-us/azure/bastion/bastion-overview)
-- 
+- [Spot eviction](https://learn.microsoft.com/en-us/azure/architecture/guide/spot/spot-eviction)
+- [Spot usage](https://learn.microsoft.com/en-us/azure/virtual-machines/spot-vms)
