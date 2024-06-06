@@ -68,4 +68,4 @@ https://learn.microsoft.com/en-us/)
 - [Q&A for module 6](https://forms.office.com/r/hKr9DDk8HW)
 
 ### Module 7
-- [Q&A for module 6](https://forms.office.com/r/EFbkrrFhMW)
+- [Q&A for module 7](https://forms.office.com/r/EFbkrrFhMW)
