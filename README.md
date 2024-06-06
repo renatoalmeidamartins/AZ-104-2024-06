@@ -65,6 +65,8 @@ https://learn.microsoft.com/en-us/)
 
 ### Module 6
 - [Choosing a load balancing soution in Azure](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview)
+- [Load balancer default distribution](https://learn.microsoft.com/en-us/azure/load-balancer/concepts)
+- [Change distribution mode for a LB](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-distribution-mode?tabs=azure-portal)
 - [Q&A for module 6](https://forms.office.com/r/hKr9DDk8HW)
 
 ### Module 7
