@@ -2,7 +2,7 @@
 
 ## General info
 - [Exam going from beta to live](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/creating-high-quality-exams-the-path-from-beta-to-live/ba-p/1469422)
-- 
+  
 ## Day 1 
 
 ### Module 1
@@ -89,3 +89,5 @@ https://learn.microsoft.com/en-us/)
 ### Module 8
 - [VM families](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview)
 - [Disk sizes](https://learn.microsoft.com/en-us/azure/virtual-machines/disks-types)
+- [Azure Bastion](https://learn.microsoft.com/en-us/azure/bastion/bastion-overview)
+- 
