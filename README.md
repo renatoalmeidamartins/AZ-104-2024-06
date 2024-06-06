@@ -70,4 +70,5 @@ https://learn.microsoft.com/en-us/)
 - [Q&A for module 6](https://forms.office.com/r/hKr9DDk8HW)
 
 ### Module 7
-- [Q&A for module 7](https://forms.office.com/r/EFbkrrFhMW)
+- [Querying Azure Table storage](https://learn.microsoft.com/en-us/rest/api/storageservices/querying-tables-and-entities)
+-  [Q&A for module 7](https://forms.office.com/r/EFbkrrFhMW)
