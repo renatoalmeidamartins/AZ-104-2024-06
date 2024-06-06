@@ -1,5 +1,8 @@
 # AZ-104-2024-06
 
+## General info
+- [Exam going from beta to live](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/creating-high-quality-exams-the-path-from-beta-to-live/ba-p/1469422)
+- 
 ## Day 1 
 
 ### Module 1
@@ -69,11 +72,16 @@ https://learn.microsoft.com/en-us/)
 - [Change distribution mode for a LB](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-distribution-mode?tabs=azure-portal)
 - [Q&A for module 6](https://forms.office.com/r/hKr9DDk8HW)
 
+
+## Day 3
+
 ### Module 7
 - [Querying Azure Table storage](https://learn.microsoft.com/en-us/rest/api/storageservices/querying-tables-and-entities)
 - [Cosmos DB Dynamic scaling per partition and per region](https://devblogs.microsoft.com/cosmosdb/announcing-dynamic-scaling-per-region-and-per-partition-for-azure-cosmos-dbs-autoscale/)
 - [Constructing a storage access signature](https://learn.microsoft.com/en-us/rest/api/storageservices/create-service-sas)
 - [Azure storage explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer/)
 - [Azure File Sync](https://learn.microsoft.com/en-us/azure/storage/file-sync/file-sync-deployment-guide?tabs=azure-portal%2Cproactive-portal)
+- [Block, page and append blobs](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction#blobs
+- [Immutable - WORM storage)(https://learn.microsoft.com/en-us/azure/storage/blobs/immutable-storage-overview)
 -  [Q&A for module 7](https://forms.office.com/r/EFbkrrFhMW)
 
