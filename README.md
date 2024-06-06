@@ -74,5 +74,6 @@ https://learn.microsoft.com/en-us/)
 - [Cosmos DB Dynamic scaling per partition and per region](https://devblogs.microsoft.com/cosmosdb/announcing-dynamic-scaling-per-region-and-per-partition-for-azure-cosmos-dbs-autoscale/)
 - [Constructing a storage access signature](https://learn.microsoft.com/en-us/rest/api/storageservices/create-service-sas)
 - [Azure storage explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer/)
+- [Azure File Sync](https://learn.microsoft.com/en-us/azure/storage/file-sync/file-sync-deployment-guide?tabs=azure-portal%2Cproactive-portal)
 -  [Q&A for module 7](https://forms.office.com/r/EFbkrrFhMW)
 
