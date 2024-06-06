@@ -83,5 +83,6 @@ https://learn.microsoft.com/en-us/)
 - [Azure File Sync](https://learn.microsoft.com/en-us/azure/storage/file-sync/file-sync-deployment-guide?tabs=azure-portal%2Cproactive-portal)
 - [Block, page and append blobs](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction#blobs
 - [Immutable - WORM storage)(https://learn.microsoft.com/en-us/azure/storage/blobs/immutable-storage-overview)
+- [Blob access tiers](https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview)
 -  [Q&A for module 7](https://forms.office.com/r/EFbkrrFhMW)
 
