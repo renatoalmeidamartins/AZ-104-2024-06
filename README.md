@@ -88,4 +88,4 @@ https://learn.microsoft.com/en-us/)
 
 ### Module 8
 - [VM families](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview)
-
+- [Disk sizes](https://learn.microsoft.com/en-us/azure/virtual-machines/disks-types)
