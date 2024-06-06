@@ -71,4 +71,6 @@ https://learn.microsoft.com/en-us/)
 
 ### Module 7
 - [Querying Azure Table storage](https://learn.microsoft.com/en-us/rest/api/storageservices/querying-tables-and-entities)
+- [Cosmos DB Dynamic scaling per partition and per region](https://devblogs.microsoft.com/cosmosdb/announcing-dynamic-scaling-per-region-and-per-partition-for-azure-cosmos-dbs-autoscale/)
 -  [Q&A for module 7](https://forms.office.com/r/EFbkrrFhMW)
+
