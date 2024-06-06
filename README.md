@@ -65,4 +65,7 @@ https://learn.microsoft.com/en-us/)
 
 ### Module 6
 - [Choosing a load balancing soution in Azure](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview)
+- [Q&A for module 6](https://forms.office.com/r/hKr9DDk8HW)
+
+### Module 7
 - [Q&A for module 6](https://forms.office.com/r/EFbkrrFhMW)
