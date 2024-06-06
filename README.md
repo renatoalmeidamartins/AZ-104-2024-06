@@ -86,3 +86,6 @@ https://learn.microsoft.com/en-us/)
 - [Blob access tiers](https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview)
 -  [Q&A for module 7](https://forms.office.com/r/EFbkrrFhMW)
 
+### Module 8
+- [VM families](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview)
+
