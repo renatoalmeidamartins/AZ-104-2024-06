@@ -108,4 +108,6 @@ https://learn.microsoft.com/en-us/)
 
 ### Module 10
 - [Azure backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-microsoft-azure-backup#choose-an-installation-platform)
+- [Ázure Backup Server FAQ](https://learn.microsoft.com/en-us/azure/backup/backup-azure-dpm-azure-server-faq)
+- [MARS agent FAQ](https://learn.microsoft.com/en-us/azure/backup/backup-azure-file-folder-backup-faq)
 - [Q&A for Module 10](https://forms.office.com/r/u5VfZ8Wmat)
