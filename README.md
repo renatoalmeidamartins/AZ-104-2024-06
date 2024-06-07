@@ -115,3 +115,6 @@ https://learn.microsoft.com/en-us/)
 - [Support matrix for Azure Backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-support-matrix-mabs-dpm)
 - [Azure backup - Linux support](https://learn.microsoft.com/en-us/azure/backup/backup-support-matrix#linux-backup-support)
 - [Q&A for Module 10](https://forms.office.com/r/u5VfZ8Wmat)
+
+### Module 11
+- [All Azure Monitor tables and fields explained](https://learn.microsoft.com/en-us/azure/azure-monitor/reference/tables/tables-resourcetype)
