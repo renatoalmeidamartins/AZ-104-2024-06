@@ -97,3 +97,11 @@ https://learn.microsoft.com/en-us/)
 
 ### Module 9
 - [Using key vault references in deployment slot settings for App Service](https://learn.microsoft.com/en-us/azure/app-service/app-service-key-vault-references?tabs=azure-cli)
+
+## Day 4
+
+### Module 9
+- [Autoscaling for app service](https://azure.microsoft.com/en-us/updates/general-availability-of-the-automatic-scaling-feature/)
+- [Azure Container Instances - Container groups](https://learn.microsoft.com/en-us/azure/container-instances/container-instances-container-groups)
+- [Q&A for Module 9](https://forms.office.com/r/9TJwUtSRcc)
+
