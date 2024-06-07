@@ -2,6 +2,14 @@
 
 ## General info
 - [Exam going from beta to live](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/creating-high-quality-exams-the-path-from-beta-to-live/ba-p/1469422)
+- MS Learn paths for each Exam content area
+  - [AZ-104: Prerequisites for Azure administrators](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
+  - [AZ-104: Manage identities and governance in Azure](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-identities-governance/)
+  - [AZ-104: Implement and manage storage in Azure](https://learn.microsoft.com/en-us/training/paths/az-104-manage-storage/)
+  - [AZ-104: Configure and manage virtual networks for Azure administrators](https://learn.microsoft.com/en-us/training/paths/az-104-manage-virtual-networks/)
+  - [AZ-104: Deploy and manage Azure compute resources](https://learn.microsoft.com/en-us/training/paths/az-104-manage-compute-resources/)
+  - [AZ-104: Monitor and back up Azure resources](https://learn.microsoft.com/en-us/training/paths/az-104-monitor-backup-resources/)
+  - 
   
 ## Day 1 
 
@@ -118,3 +126,6 @@ https://learn.microsoft.com/en-us/)
 
 ### Module 11
 - [All Azure Monitor tables and fields explained](https://learn.microsoft.com/en-us/azure/azure-monitor/reference/tables/tables-resourcetype)
+- [KQL Syntax reference](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/kql-quick-reference)
+- [Azure Resource Graph](https://learn.microsoft.com/en-us/azure/governance/resource-graph/overview)
+- [Q&A for Module 11](https://forms.office.com/r/SzBetWdYp4)
