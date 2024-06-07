@@ -106,3 +106,6 @@ https://learn.microsoft.com/en-us/)
 - [Q&A for Module 9](https://forms.office.com/r/9TJwUtSRcc)
 - [Mount a file share on ACI](https://learn.microsoft.com/en-us/azure/container-instances/container-instances-volume-azure-files)
 
+### Module 10
+- [Azure backup Server](https://learn.microsoft.com/en-us/azure/backup/backup-azure-microsoft-azure-backup#choose-an-installation-platform)
+- [Q&A for Module 10](https://forms.office.com/r/u5VfZ8Wmat)
