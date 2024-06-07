@@ -104,4 +104,5 @@ https://learn.microsoft.com/en-us/)
 - [Autoscaling for app service](https://azure.microsoft.com/en-us/updates/general-availability-of-the-automatic-scaling-feature/)
 - [Azure Container Instances - Container groups](https://learn.microsoft.com/en-us/azure/container-instances/container-instances-container-groups)
 - [Q&A for Module 9](https://forms.office.com/r/9TJwUtSRcc)
+- [Mount a file share on ACI](https://learn.microsoft.com/en-us/azure/container-instances/container-instances-volume-azure-files)
 
