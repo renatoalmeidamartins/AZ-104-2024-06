@@ -1,5 +1,9 @@
 # AZ-104-2024-06
 
+## My contact details
+- [Linkedin profile](https://www.linkedin.com/in/renatodealmeidamartins/)
+- Email: renatoalmeidamartins@gmail.com
+
 ## General info
 - [Exam going from beta to live](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/creating-high-quality-exams-the-path-from-beta-to-live/ba-p/1469422)
 - MS Learn paths for each Exam content area
